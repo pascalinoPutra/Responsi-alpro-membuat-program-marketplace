@@ -1,0 +1,35 @@
+========================================================================
+***********************  H A S I L  I N V O I C E     ******************
+========================================================================
+P E M B E L I                  : putra.pvb
+A L A M A T                    : 2
+B A R A N G  Y G  D I B E L I  :P V N  K A R A  S E P A T U  S N E A K R S  W A N I T A  S P O R T
+S A L D O   A K H I R          :392000
+========================================================================
+***********************  H A S I L  I N V O I C E     ******************
+========================================================================
+P E M B E L I                  : putra.pvb
+A L A M A T                    : JL.TJ GEDONG NO.16, KEL.GROGOL PETAMBURAN , KEC.GORGOL PETAMBURAN , JAKARTA BARAT.
+B A R A N G  Y G  D I B E L I  :P V N  K A R A  S E P A T U  S N E A K R S  W A N I T A  S P O R T
+W A R N A   S E P A T U        :white
+S I Z E   S E P A T U          :43
+S A L D O   A K H I R          :392000
+========================================================================
+***********************  H A S I L  I N V O I C E     ******************
+========================================================================
+P E M B E L I                  : putra.pvb
+A L A M A T                    : JL.TJ GEDONG NO.16, KEL.GROGOL PETAMBURAN , KEC.GORGOL PETAMBURAN , JAKARTA BARAT.
+B A R A N G  Y G  D I B E L I  :P V N  K A R A  S E P A T U  S N E A K R S  W A N I T A  S P O R T
+W A R N A   S E P A T U        :blue
+S I Z E   S E P A T U          :43
+S A L D O   A K H I R          :392000
+========================================================================
+***********************  H A S I L  I N V O I C E     ******************
+========================================================================
+P E M B E L I                    : putra.pvb
+A L A M A T                      : JL.TJ GEDONG NO.16, KEL.GROGOL PETAMBURAN , KEC.GORGOL PETAMBURAN , JAKARTA BARAT.
+B A R A N G  Y G  D I B E L I    :P V N  K A R A  S E P A T U  S N E A K R S  W A N I T A  S P O R T
+W A R N A   S E P A T U          :candy
+S I Z E   S E P A T U            :42
+S A L D O   A K H I R            :392000
+M E T O D E  P E M B A Y A R A N :SHOPEEPAY
